@@ -48,6 +48,10 @@ footer {
   flex-direction: column;
   justify-content: center;
 }
+.header-button{
+  position: relative;
+  top: 0px;
+}
 .main-content h1 {
   color: #3a5f56;
   font-size: 48px;
