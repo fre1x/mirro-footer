@@ -149,7 +149,7 @@ line-height: 22px;
 .footer-store-categories {
   color: #B87D58 ;
   position: relative;
-  right: -58px;
+  right: -52px;
   display: flex;
   text-align: center;
   justify-content: center;
@@ -202,7 +202,7 @@ line-height: 22px;
     .footer-utility-pages {
       color: #B87D58;
       position: relative;
-      right: 170px;
+      right: 163px;
       font-weight: 400;
       font-size: 16px;
       line-height: 20px;
